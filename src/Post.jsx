@@ -35,8 +35,8 @@ const Post = () => {
             <MoreVertIcon />
           </IconButton>
         }
-        title="Shrimp and Chorizo Paella"
-        subheader="September 14, 2016"
+        title="Shriya"
+        subheader="September 14, 2023"
       />
       <CardMedia
         component="img"
